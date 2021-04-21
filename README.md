@@ -1,9 +1,12 @@
 # Basics-OpenCV
 Video Editing using Basics of OpenCV
 
-The main video is Video.mp4
-The code to produce the video is code.ipniy
-The rest of the files are the inputs for the video (Input1.mp4 and Input2.mp4), the Template for Template Maching (template.jpg) and the image for replacement (emoji.jpg)
+1. **Video.mp4**: Main Video (Output)
+2. **code.pym**: Main Code to produce the Video.mp4
+3. **input1.mp4**: File with part of the input video
+4. **input2.mp4**: File with part of the input video
+5. **template.jpg**: Template for Template Maching
+6. **emoji.jpg**: Image for replacement
 
 The goal was to make a 1 minute video showing off some of the capabilities of OpenCV.
 
